@@ -1,4 +1,4 @@
-## Hi there, Friends! 👋  
+## Hi there, Folks! 👋  
 
 **I'm Abdullah**, As a Certified Ethical Hacker and IT student with a strong foundation in networking, cybersecurity, cloud technologies, and graphic design, I am passionate about using technology to solve complex problems and drive innovation. My academic journey and hands-on experience have equipped me with a versatile skill set, allowing me to excel in various domains of the tech industry.
 
