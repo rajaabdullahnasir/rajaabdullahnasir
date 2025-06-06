@@ -6,7 +6,7 @@
 
 ## 🗣️ My Most Used Languages  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaabdullah833&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaabdullahnasir&layout=compact)
 
 ## 📫 Connect With Me:
   <a href="https://www.linkedin.com/in/ho9i-raja-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
